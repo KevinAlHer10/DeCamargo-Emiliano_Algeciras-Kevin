@@ -1,0 +1,116 @@
+[2023-06-01 23:45:18] [ INFO ] [PacienteDAOH2:133] Buscando un patient con el siguiente email: misterx@gmail.com
+[2023-06-01 23:45:18] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-01 23:49:40] [ INFO ] [PacienteDAOH2:133] Buscando un patient con el siguiente email: jorgito@gmail.com
+[2023-06-01 23:49:40] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 1
+[2023-06-02 21:46:05] [ INFO ] [PacienteDAOH2:133] Buscando un patient con el siguiente email: jorgito@gmail.com
+[2023-06-02 21:46:05] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 1
+[2023-06-02 21:50:59] [ WARN ] [BD:34] Se crearon con exito las tablas
+[2023-06-02 21:51:29] [ INFO ] [OdontologoDAOH2:51] Iniciando la operación de buscado del Odontologo con ID: 1
+[2023-06-02 21:51:45] [ INFO ] [OdontologoDAOH2:51] Iniciando la operación de buscado del Odontologo con ID: 2
+[2023-06-05 23:28:33] [ WARN ] [BD:34] Se crearon con exito las tablas
+[2023-06-05 23:34:40] [ WARN ] [BD:34] Se crearon con exito las tablas
+[2023-06-05 23:35:02] [ INFO ] [PacienteDAOH2:22] iniciando la operacion de Guardado de un Paciente: Jorgito
+[2023-06-05 23:35:02] [ INFO ] [DomicilioDAOH2:24] Inicio de Guardado de un Domicilio
+[2023-06-05 23:41:07] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 5
+[2023-06-05 23:44:12] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-05 23:44:12] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-05 23:44:12] [ INFO ] [PacienteDAOH2:95] iniciando la operacion de Actualizar de un Paciente: Guadalupe
+[2023-06-05 23:44:12] [ INFO ] [DomicilioDAOH2:83] Inicio de actualizar datos de un Domicilio con ID:com.dh.clinicaOdontologica.model.Domicilio@29758d31
+[2023-06-05 23:48:20] [ WARN ] [BD:34] Se crearon con exito las tablas
+[2023-06-05 23:48:45] [ INFO ] [PacienteDAOH2:22] iniciando la operacion de Guardado de un Paciente: Jorgito
+[2023-06-05 23:48:45] [ INFO ] [DomicilioDAOH2:24] Inicio de Guardado de un Domicilio
+[2023-06-05 23:49:23] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-05 23:49:24] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-05 23:49:24] [ INFO ] [PacienteDAOH2:95] iniciando la operacion de Actualizar de un Paciente: Guadalupe
+[2023-06-05 23:49:24] [ INFO ] [DomicilioDAOH2:83] Inicio de actualizar datos de un Domicilio con ID:com.dh.clinicaOdontologica.model.Domicilio@9e77c7d
+[2023-06-05 23:49:35] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-05 23:49:35] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-05 23:51:54] [ INFO ] [PacienteDAOH2:22] iniciando la operacion de Guardado de un Paciente: Jorgito
+[2023-06-05 23:51:54] [ INFO ] [DomicilioDAOH2:24] Inicio de Guardado de un Domicilio
+[2023-06-06 00:00:12] [ WARN ] [BD:34] Se crearon con exito las tablas
+[2023-06-06 00:00:30] [ INFO ] [PacienteDAOH2:22] iniciando la operacion de Guardado de un Paciente: Jorgito
+[2023-06-06 00:00:31] [ INFO ] [DomicilioDAOH2:24] Inicio de Guardado de un Domicilio
+[2023-06-06 00:00:45] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-06 00:00:46] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-06 00:00:46] [ INFO ] [PacienteDAOH2:95] iniciando la operacion de Actualizar de un Paciente: Guadalupe
+[2023-06-06 00:00:46] [ INFO ] [DomicilioDAOH2:83] Inicio de actualizar datos de un Domicilio con ID:com.dh.clinicaOdontologica.model.Domicilio@8ae6620
+[2023-06-06 00:00:54] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-06 00:00:54] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-06 00:00:59] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-06 00:01:00] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-06 00:02:22] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-06 00:02:23] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-06 00:02:23] [ INFO ] [PacienteDAOH2:95] iniciando la operacion de Actualizar de un Paciente: Guadalupe
+[2023-06-06 00:02:23] [ INFO ] [DomicilioDAOH2:83] Inicio de actualizar datos de un Domicilio con ID:com.dh.clinicaOdontologica.model.Domicilio@53bb93fb
+[2023-06-06 00:02:29] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-06 00:02:29] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-06 00:02:50] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-06 00:02:50] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-06 00:02:50] [ INFO ] [PacienteDAOH2:95] iniciando la operacion de Actualizar de un Paciente: Guadalupe
+[2023-06-06 00:02:51] [ INFO ] [DomicilioDAOH2:83] Inicio de actualizar datos de un Domicilio con ID:com.dh.clinicaOdontologica.model.Domicilio@54616a5f
+[2023-06-06 00:02:55] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-06 00:02:55] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-06 00:10:09] [ WARN ] [BD:34] Se crearon con exito las tablas
+[2023-06-06 00:10:25] [ INFO ] [PacienteDAOH2:22] iniciando la operacion de Guardado de un Paciente: Jorgito
+[2023-06-06 00:10:25] [ INFO ] [DomicilioDAOH2:24] Inicio de Guardado de un Domicilio
+[2023-06-06 21:02:10] [ WARN ] [BD:34] Se crearon con exito las tablas
+[2023-06-06 21:02:47] [ INFO ] [PacienteDAOH2:22] iniciando la operacion de Guardado de un Paciente: Jorgito
+[2023-06-06 21:02:48] [ INFO ] [DomicilioDAOH2:24] Inicio de Guardado de un Domicilio
+[2023-06-06 21:03:01] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-06 21:03:02] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-06 21:03:02] [ INFO ] [PacienteDAOH2:95] iniciando la operacion de Actualizar de un Paciente: Guadalupe
+[2023-06-06 21:03:02] [ INFO ] [DomicilioDAOH2:83] Inicio de actualizar datos de un Domicilio con ID:com.dh.clinicaOdontologica.model.Domicilio@610b00c8
+[2023-06-06 21:03:23] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-06 21:03:23] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-06 21:04:39] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-06 21:04:39] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-06 21:04:39] [ INFO ] [PacienteDAOH2:95] iniciando la operacion de Actualizar de un Paciente: Guadalupe
+[2023-06-06 21:04:40] [ INFO ] [DomicilioDAOH2:83] Inicio de actualizar datos de un Domicilio con ID:com.dh.clinicaOdontologica.model.Domicilio@2bdcdbc4
+[2023-06-06 21:04:53] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-06 21:04:53] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-06 21:07:26] [ WARN ] [BD:34] Se crearon con exito las tablas
+[2023-06-06 21:07:56] [ INFO ] [PacienteDAOH2:22] iniciando la operacion de Guardado de un Paciente: Jorgito
+[2023-06-06 21:07:56] [ INFO ] [DomicilioDAOH2:24] Inicio de Guardado de un Domicilio
+[2023-06-06 21:08:52] [ INFO ] [PacienteDAOH2:22] iniciando la operacion de Guardado de un Paciente: Victor
+[2023-06-06 21:08:52] [ INFO ] [DomicilioDAOH2:24] Inicio de Guardado de un Domicilio
+[2023-06-06 21:09:11] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 1
+[2023-06-06 21:09:11] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 1
+[2023-06-06 21:09:20] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-06 21:09:21] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-06 21:09:26] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 3
+[2023-06-06 21:09:26] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 3
+[2023-06-06 21:09:32] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 4
+[2023-06-06 21:09:32] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 4
+[2023-06-06 21:10:06] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 5
+[2023-06-06 21:10:57] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 3
+[2023-06-06 21:10:57] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 3
+[2023-06-06 21:11:51] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 3
+[2023-06-06 21:11:51] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 3
+[2023-06-06 21:11:51] [ INFO ] [PacienteDAOH2:95] iniciando la operacion de Actualizar de un Paciente: Rodrigo
+[2023-06-06 21:11:51] [ INFO ] [DomicilioDAOH2:83] Inicio de actualizar datos de un Domicilio con ID:com.dh.clinicaOdontologica.model.Domicilio@2bdcdbc4
+[2023-06-06 21:12:03] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 3
+[2023-06-06 21:12:03] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 3
+[2023-06-06 21:19:34] [ WARN ] [BD:34] Se crearon con exito las tablas
+[2023-06-06 21:19:56] [ INFO ] [PacienteDAOH2:22] iniciando la operacion de Guardado de un Paciente: Victor
+[2023-06-06 21:19:56] [ INFO ] [DomicilioDAOH2:24] Inicio de Guardado de un Domicilio
+[2023-06-06 21:20:32] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 3
+[2023-06-06 21:20:32] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 3
+[2023-06-06 21:20:32] [ INFO ] [PacienteDAOH2:95] iniciando la operacion de Actualizar de un Paciente: Rodrigo
+[2023-06-06 21:20:32] [ INFO ] [DomicilioDAOH2:83] Inicio de actualizar datos de un Domicilio con ID:com.dh.clinicaOdontologica.model.Domicilio@4726cd8e
+[2023-06-06 21:20:46] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 1
+[2023-06-06 21:20:46] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 1
+[2023-06-06 21:21:00] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 2
+[2023-06-06 21:21:00] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 2
+[2023-06-06 21:21:10] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 3
+[2023-06-06 21:21:10] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 3
+[2023-06-06 21:23:21] [ WARN ] [BD:34] Se crearon con exito las tablas
+[2023-06-06 21:23:42] [ INFO ] [PacienteDAOH2:22] iniciando la operacion de Guardado de un Paciente: Victor
+[2023-06-06 21:23:42] [ INFO ] [DomicilioDAOH2:24] Inicio de Guardado de un Domicilio
+[2023-06-06 21:23:51] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 3
+[2023-06-06 21:23:51] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 3
+[2023-06-06 21:23:59] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 3
+[2023-06-06 21:23:59] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 3
+[2023-06-06 21:23:59] [ INFO ] [PacienteDAOH2:95] iniciando la operacion de Actualizar de un Paciente: Rodrigo
+[2023-06-06 21:23:59] [ INFO ] [DomicilioDAOH2:83] Inicio de actualizar datos de un Domicilio con ID:3
+[2023-06-06 21:24:03] [ INFO ] [PacienteDAOH2:63] iniciando la operacion de buscar de un Paciente: 3
+[2023-06-06 21:24:04] [ INFO ] [DomicilioDAOH2:55] Inicio de buscado de un Domicilio con ID: 3

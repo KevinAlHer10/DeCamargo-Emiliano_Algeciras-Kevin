@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Odontologos</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/get_dentists.js"></script>
+    <script type="text/javascript" src="/js/update_dentists.js"></script>
+    <script type="text/javascript" src="/js/delete_dentists.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="./index.html">DH</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</nav>
+<div class="container">
+    <div id="div_dentist_table">
+        <h1>Dentists</h1>
+        <div class="row col-md-6 table-responsive">
+            <table id="dentistTable" class="table table-striped">
+                <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Credential</th>
+                    <th>Name</th>
+                    <th>Lastname</th>
+                    <th></th>
+                </tr>
+                </thead>
+                <tbody id="dentistTableBody">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6" style="display: none;
+											background-color:#e6fffa; padding:10px; border-radius:3px"
+             id="div_dentist_updating">
+            <form id="update_dentist_form">
+                <div class="form-group">
+                    <label >Id:</label>
+                    <input type="text" class="form-control" id="dentist_id" readonly>
+                </div>
+                <div class="form-group">
+                    <label >Credential:</label>
+                    <input type="text" class="form-control" placeholder="credential" id="credential">
+                </div>
+                <div class="form-group">
+                    <label >Name:</label>
+                    <input type="text" class="form-control" placeholder="name" id="name">
+                </div>
+                <div class="form-group">
+                    <label >Lastname:</label>
+                    <input type="text" class="form-control" placeholder="lastname" id="lastname">
+                </div>
+                <button type="submit" class="btn btn-primary">Modify</button>
+            </form>
+            <div id="response" style="display:none; margin:10px">
+            </div>
+        </div>
+    </div>
+    <hr>
+</div>
+</body>
+</html>
